@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **Android, Web**
 
 - 📫 How to reach me **prateek0426@gmail.com**
 
