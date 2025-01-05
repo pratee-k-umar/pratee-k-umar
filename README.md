@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prateek262004" target="blank"><img src="https://img.shields.io/twitter/follow/prateek262004?logo=twitter&style=for-the-badge" alt="prateek262004" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, DevOps, Java**
 
 - 💬 Ask me about **Android, MERN**
 
