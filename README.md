@@ -1,5 +1,5 @@
 ![banner3](https://github.com/user-attachments/assets/0b335e6e-d931-4cff-9959-0084e070a3e7)
-<h1 align="center">Hi 👋, I'm Prateek Kumar</h1>
+<h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">Driven by a passion for innovation and a deep curiosity for technology, I am a Full Stack & App Developer with expertise in building dynamic, user-focused apps.</h3>
 <img align="right" alt="coding" width="500" src="https://github.com/user-attachments/assets/74526c2e-d54a-4745-be45-40111e0e9959">
 
