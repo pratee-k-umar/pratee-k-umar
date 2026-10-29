@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3862aa14-d285-47e8-9949-66fe2ccc8793" width="100%" alt="Prateek Kumar — Software Engineer" />
 </p>
@@ -6,9 +5,7 @@
 <h1 align="center">Hi, I'm Prateek Kumar</h1>
 <h3 align="center">SOFTWARE ENGINEER &nbsp; | &nbsp; BACKEND & FULL-STACK</h3>
 <p align="center">
- I build backend systems, real-time applications, and full-stack products.
- I focus on solving engineering problems, understanding systems from the
- ground up, and turning ideas into working software.
+  Computer Science graduate from Madan Mohan Malaviya University of Technology </br> with hands-on experience in backend development, realtime systems, and fullstack applications. </br> I build backend systems, real-time applications, and full-stack products. </br> I focus on solving engineering problems, understanding systems, and turning ideas into working software.
 </p>
 
 # Tech Stack:
@@ -31,7 +28,7 @@
       <p align="center">
         <a href="https://github.com/pratee-k-umar/dfms">Code</a>
         &nbsp; | &nbsp;
-        <a href="https://dsms-raqe.onrender.com">Live Demo</a>
+        <a href="https://dsms-raqe.onrender.com">Live</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -48,7 +45,7 @@
       <p align="center">
         <a href="https://github.com/pratee-k-umar/PortfolioT">Code</a>
         &nbsp; | &nbsp;
-        <a href="https://capx-rs0x.onrender.com">Live Demo</a>
+        <a href="https://capx-rs0x.onrender.com">Live</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -65,7 +62,7 @@
       <p align="center">
         <a href="https://github.com/pratee-k-umar/Medicare">Code</a>
         &nbsp; | &nbsp;
-        <a href="https://medicare-omega-bay.vercel.app">Live Demo</a>
+        <a href="https://medicare-omega-bay.vercel.app">Live</a>
       </p>
     </td>
   </tr>
