@@ -69,7 +69,7 @@
 </table>
 
 <p align="right">
-  <a href="https://github.com/pratee-k-umar?tab=repositories">VIEW ALL REPOSITORIES →</a>
+  <a href="https://drive.google.com/file/d/1JdwDJ8XOqvrBcx-ORTjAQ_sOtX_vK363/view">Resume</a> &nbsp; | &nbsp; <a href="https://github.com/pratee-k-umar?tab=repositories">VIEW ALL REPOSITORIES →</a>
 </p>
 
 # Github Stats:
